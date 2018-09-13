@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* HelloWorldService
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com/mkyong/rest/HelloWorldService
