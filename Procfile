@@ -1,1 +1,1 @@
-web: java -cp target\classes HelloWorldService
+web: java -cp target/classes HelloWorldService
